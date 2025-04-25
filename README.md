@@ -37,3 +37,5 @@ In web development this word refers to **how styles are applied to HTML elements
 CSS rules can be defined in multiple places (inline styles, internal stylesheets, and external stylesheets) so the term “cascading” highlights how CSS applies a hierarchy of rules, where certain rules take precedence over others based on defined principles.
 
 **CSS Cascading order precedence** from highest priority to lowest one:
+
+**Inline CSS >  Internal CSS > External CSS > Browser Default/User Styles**
